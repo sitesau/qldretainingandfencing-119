@@ -1,0 +1,22 @@
+{
+  "wheel_id": 927,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-119",
+  "project": "retaining-wall-installation-brisbane-maintenance-4ce2ff8307110f",
+  "parent_t1_ref": "qldretainingandfencing-159",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installation brisbane maintenance",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-installation-brisbane-maintenance-4ce2ff8307110f/",
+  "tier": "T2",
+  "writeback_nonce": "7aa04a142d658580",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-installation-brisbane-materials-compared-82bb47d/",
+      "anchor": "retaining wall installation brisbane materials compared",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
